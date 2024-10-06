@@ -1,0 +1,5 @@
+sample_id,chromosome,position,genotype
+sample1,1,1000,AA
+sample1,1,2000,AB
+sample2,2,3000,BB
+...
