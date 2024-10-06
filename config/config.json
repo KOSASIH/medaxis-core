@@ -1,0 +1,17 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "medaxis",
+    "password": "medaxis_password",
+    "database": "medaxis_db"
+  },
+  "storage": {
+    "bucket": "medaxis-bucket",
+    "region": "us-west-2"
+  },
+  "compute": {
+    "cluster": "medaxis-cluster",
+    "queue": "medaxis-queue"
+  }
+}
