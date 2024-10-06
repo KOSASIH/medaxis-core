@@ -1,0 +1,5 @@
+sample_id,chromosome,position,methylation_level
+sample1,1,1000,0.5
+sample1,1,2000,0.7
+sample2,2,3000,0.3
+...
