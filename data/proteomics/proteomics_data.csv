@@ -1,0 +1,5 @@
+sample_id,protein_id,expression_level
+sample1,protein1,10
+sample1,protein2,20
+sample2,protein1,30
+...
