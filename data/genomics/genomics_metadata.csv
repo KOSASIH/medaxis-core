@@ -1,0 +1,5 @@
+sample_id,age,sex,diagnosis
+sample1,30,male,healthy
+sample1,30,male,healthy
+sample2,40,female,diseased
+...
